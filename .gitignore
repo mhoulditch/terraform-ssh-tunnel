@@ -1,0 +1,4 @@
+tfapply.txt
+.terraform
+*.tfstate
+*.tfstate.backup
